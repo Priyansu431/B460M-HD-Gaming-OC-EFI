@@ -1,9 +1,9 @@
 # B460M-HD-Gaming-OC-EFI
 
 # PC Configuration
-CPU : Intel Core i5 10400<br/>
-GPU : Intel UHD 630<br/>
-RAM : 24GB<br/>
-Motherboard: Gigabyte B460M Gaming HD<br/>
-WIFI: TP Link USB Wifi TP Link WN725N<br/>
-Bluetooth: TP-Link USB UB400 <br/>
+<b>CPU :</b> Intel Core i5 10400<br/>
+<b>GPU :</b> Intel UHD 630<br/>
+<b>RAM :</b> 24GB<br/>
+<b>Motherboard:</b> Gigabyte B460M Gaming HD<br/>
+<b>WIFI:</b> TP Link USB Wifi TP Link WN725N<br/>
+<b>Bluetooth:</b> TP-Link USB UB400 <br/>
