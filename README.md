@@ -29,5 +29,7 @@ https://www.reddit.com/r/hackintosh/comments/lc4ooz/anyonw_know_how_to_change_th
   <li>Reboot and make sure it works</li>
 </ol>
 
+https://www.reddit.com/r/hackintosh/comments/ld19qu/change_the_background_image_in_opencanopy/
+
 # Custom icon builder for Open core 
 https://github.com/chris1111/Icnspack-Builder
