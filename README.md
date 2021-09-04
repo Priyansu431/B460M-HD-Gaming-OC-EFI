@@ -1,6 +1,9 @@
-# B460M-HD-Gaming-OC-EFI
+## B460M-HD-Gaming-OC-EFI
 
-# PC Configuration
+
+
+
+### PC Configuration
 <b>CPU :</b> Intel Core i5 10400<br/>
 <b>GPU :</b> Intel UHD 630<br/>
 <b>RAM :</b> 24GB<br/>
@@ -8,7 +11,9 @@
 <b>WIFI:</b> TP Link USB Wifi TP Link WN725N<br/>
 <b>Bluetooth:</b> TP-Link USB UB400 <br/>
 
-# Change the default boot option to window
+### Open Core Version -  0.7.1
+
+### Change the default boot option to window
 <ol>
   <li> make sure you have MISC -> Security -> AllowSetDefault -> True </li>
 <li> on that boot selector screen, move your arrow to Windows and hit ctrl+return (next time when you boot that will be default)</li>
@@ -17,7 +22,7 @@ https://www.reddit.com/r/hackintosh/comments/lc4ooz/anyonw_know_how_to_change_th
 
 
 
-# Change the background Image in OpenCanopy (Open Core 0.6.6)
+### Change the background Image in OpenCanopy (Open Core 0.7.1)
 
 <ol>
     <li>Follow this to turn on OpenCanopy.</li>
@@ -31,5 +36,5 @@ https://www.reddit.com/r/hackintosh/comments/lc4ooz/anyonw_know_how_to_change_th
 
 https://www.reddit.com/r/hackintosh/comments/ld19qu/change_the_background_image_in_opencanopy/
 
-# Custom icon builder for Open core 
+### Custom icon builder for Open core 
 https://github.com/chris1111/Icnspack-Builder
