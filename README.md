@@ -1,4 +1,4 @@
-## B460M HD Gaming OC-EFI
+## B460M HD Gaming OC EFI
 
 
 
